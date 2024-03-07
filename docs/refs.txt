@@ -1,0 +1,3 @@
+https://github.com/juhaku/utoipa/blob/master/examples/todo-actix/src/main.rs
+https://codevoweb.com/add-swagger-ui-redoc-and-rapidoc-to-a-rust-api/
+https://qiita.com/w40141/items/f3d26e84b8e1625fd7a8
